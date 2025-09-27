@@ -1,4 +1,3 @@
-# British-Airways-Review
 # British Airways Review – Interactive Dashboard
 
 📊 This Tableau project explores **British Airways customer reviews (2016–2023)** through an interactive dashboard. It provides a clear view of customer satisfaction across multiple service dimensions, helping identify strengths and improvement areas.
